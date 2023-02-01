@@ -1,0 +1,8 @@
+pandas==1.5.2
+numpy==1.23.5
+matplotlib==3.6.3
+seaborn==0.12.2
+plotly==5.13.0
+scikit-learn==1.2.0
+xgboost==1.7.1
+kaleido==0.2.1
