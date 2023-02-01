@@ -3,7 +3,6 @@ import numpy as np
 from sklearn.metrics import classification_report as score
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier as rd_clasifier
-from sklearn.utils import compute_sample_weight
 from xgboost import XGBClassifier
 import warnings
 warnings.filterwarnings("ignore")
