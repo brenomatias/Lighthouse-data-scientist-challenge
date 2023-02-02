@@ -1,4 +1,4 @@
-# Programa Ligthhouse Indicium - Desafio Cientista de Dados
+# Programa Lighthouse Indicium - Desafio Cientista de Dados
 
 Seja bem vindo!
 
