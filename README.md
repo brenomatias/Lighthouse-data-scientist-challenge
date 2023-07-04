@@ -33,3 +33,7 @@ Observação 3:
 Observação 4:
     O arquivo 'predicted.csv' foi gerado a partir da execução do modelo ('python code/model.py'). Para garantir o funcionamento do código em uma nova máquina, ao executar o código, um novo arquivo chamado 'predicted_2.csv' será criado. Ele será examente igual ao relatório final 'predicted.csv'.
 
+
+    https://www.relataly.com/predictive-maintenance-predicting-machine-failure-with-python/10618/
+    https://square.github.io/pysurvival/tutorials/maintenance.html
+    https://rjunaidraza.medium.com/predictive-maintenance-using-machine-learning-lstm-python-373396c6bb82
