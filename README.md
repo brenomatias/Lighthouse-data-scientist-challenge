@@ -4,14 +4,19 @@ Seja bem vindo!
 
 Como rodar o projeto:
 
-  1) Clone o projeto:
+
+     
+  2) Clone o projeto via terminal:
       git clone git@github.com:brenomatias/Lighthouse-data-scientist-challenge.git
+
+  2) Abrir o compilador entrar na pasta do repositório
+          cd
   
-  2) Instalar dependencias:
+  3) Instalar dependencias do projeto:
       pip install -r requirements.txt
 
   3) Executar modelo:
-      python code/model.py
+      python3 code/model.py
 
 Observação 1: 
     No GitHub, um arquivo de formato '.ipynb' do Jupyter Notebook será renderizado estaticamente, e alguns gráficos podem não ser reproduzidos.
